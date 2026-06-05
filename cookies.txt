@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gsertfbvcmwiaxvclsahmngnkqtbzenbrdofrzgpwdbkmxuhyujjxi.on-forge.com	TRUE	/	FALSE	1999999999	__cf_bm	HSEEnYrnOmPjJnpMZ7ZJKif7vZKp0mdW7ahQ0kz9Xys-1780069763.6272714-1.0.1.1-F3E7TLeJeAx3buENP7hkER1y53hjPh9hoT9JldGMgEbI1BvsXNMKLWhku6gB3VwOmkzJDQ8.ylGMBzqRNmza5VO0kB8IFE0kB2bzjukuYE8_OW5oFcpi4eu0_YKSQeCa
+on-forge.com	TRUE	/	FALSE	1999999999	SameSite	None
+
